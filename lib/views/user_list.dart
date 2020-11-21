@@ -1,5 +1,4 @@
 import 'package:cadastro_app/components/user_tile.dart';
-import 'package:cadastro_app/models/user.dart';
 import 'package:cadastro_app/provider/users.dart';
 import 'package:cadastro_app/routes/app_routes.dart';
 import 'package:flutter/material.dart';

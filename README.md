@@ -2,3 +2,4 @@
 
 A Flutter project.
 
+![](registration.gif)
